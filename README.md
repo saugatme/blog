@@ -10,7 +10,7 @@ Independent blog at https://saugatme.github.io/blog/ using GitHub Pages and Jeky
 5. Use GitHub’s **Preview** tab to check formatting. Commit to `main` when ready. GitHub Pages publishes automatically, usually within a few minutes.
 
 ## Drafts
-Keep unpublished writing outside the public repository for privacy. For a public work-in-progress, use `_drafts/your-title.md`; Jekyll does not publish it, but the file remains visible on GitHub. Never put private writing or patient data here. Future-dated posts are excluded until a later site build; this is not automatic scheduling.
+Keep unpublished writing outside the public repository for privacy. For a public work-in-progress, use `_drafts/your-title.md`; Jekyll does not publish it, but the file remains visible on GitHub. Never put private writing or patient data here. All files in `_posts` publish on commit, including future-dated entries. Use `_drafts` for public drafts; there is no scheduled publishing.
 
 ## Images
 Upload to `assets/images/`, then write `![A useful description]({{ '/assets/images/filename.jpg' | relative_url }})`. Resize large images before uploading. Only publish material you have permission to share.
@@ -24,3 +24,4 @@ Upload to `assets/images/`, then write `![A useful description]({{ '/assets/imag
 - Welcome post: `_posts/2026-11-08-a-place-for-notes.md` — edit or remove whenever you wish.
 
 The portfolio’s root robots.txt currently asks crawlers to avoid all paths, including `/blog/`. This is voluntary and does not make posts private. No separate analytics are installed.
+

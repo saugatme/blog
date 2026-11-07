@@ -7,3 +7,4 @@ markdown: kramdown
 kramdown:
   input: GFM
 exclude: [README.md, post-template.md]
+future: true
