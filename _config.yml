@@ -1,0 +1,9 @@
+title: Saugat’s Blog
+description: Personal notes, professional thoughts, and things I am learning.
+url: https://saugatme.github.io
+baseurl: /blog
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude: [README.md, post-template.md]

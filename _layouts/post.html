@@ -1,0 +1,4 @@
+---
+layout: default
+---
+<article class="post"><a class="back" href="{{ '/' | relative_url }}">← All posts</a><div class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%-d %B %Y' }}</time>{% if page.category %}<span>{{ page.category | escape }}</span>{% endif %}</div><h1>{{ page.title | escape }}</h1>{% if page.description %}<p class="standfirst">{{ page.description | escape }}</p>{% endif %}<div class="prose">{{ content }}</div><div class="post-end"><p>Have a thought or a different perspective?</p><a href="mailto:saugatme@gmail.com?subject={{ page.title | uri_escape }}">Send me a note ↗</a></div></article>
