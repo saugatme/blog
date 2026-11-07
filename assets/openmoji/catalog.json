@@ -1,0 +1,37 @@
+{
+  "Personal": {
+    "path": "/assets/openmoji/1F4D3.svg",
+    "alt": "Notebook icon",
+    "source": "https://openmoji.org/library/emoji-1F4D3/"
+  },
+  "Computing": {
+    "path": "/assets/openmoji/1F4BB.svg",
+    "alt": "Laptop icon",
+    "source": "https://openmoji.org/library/emoji-1F4BB/"
+  },
+  "Health": {
+    "path": "/assets/openmoji/1F52C.svg",
+    "alt": "Microscope icon",
+    "source": "https://openmoji.org/library/emoji-1F52C/"
+  },
+  "Travel": {
+    "path": "/assets/openmoji/2708.svg",
+    "alt": "Airplane icon",
+    "source": "https://openmoji.org/library/emoji-2708/"
+  },
+  "Football": {
+    "path": "/assets/openmoji/26BD.svg",
+    "alt": "Football icon",
+    "source": "https://openmoji.org/library/emoji-26BD/"
+  },
+  "Life": {
+    "path": "/assets/openmoji/1F331.svg",
+    "alt": "Seedling icon",
+    "source": "https://openmoji.org/library/emoji-1F331/"
+  },
+  "Books & culture": {
+    "path": "/assets/openmoji/1F4DA.svg",
+    "alt": "Books icon",
+    "source": "https://openmoji.org/library/emoji-1F4DA/"
+  }
+}

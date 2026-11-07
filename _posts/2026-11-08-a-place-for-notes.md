@@ -3,6 +3,7 @@ layout: post
 title: "A place for notes"
 description: "A small beginning, with space for both work and life."
 category: Personal
+visual: Personal
 ---
 My portfolio shows projects and the work behind them. I wanted a separate place for the thoughts that don’t fit neatly into a case study.
 
